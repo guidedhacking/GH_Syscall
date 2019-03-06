@@ -7,7 +7,7 @@ int main()
 {
 	MEMORY_BASIC_INFORMATION mbi{ 0 };
 	SIZE_T retLen = 0;
-	ScQueryVirtualMemory( HANDLE( -1 ), (PVOID)Sleep, MemoryBasicInformation, (PVOID) &mbi, sizeof( mbi ), &retLen );
+	ScQueryVirtualMemory( HANDLE( -1 ), (PVOID) Sleep, MemoryBasicInformation, (PVOID) &mbi, sizeof( mbi ), &retLen );
 
 	if ( retLen )
 	{
