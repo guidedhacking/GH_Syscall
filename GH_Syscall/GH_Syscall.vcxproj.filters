@@ -26,5 +26,11 @@
     <ClInclude Include="gh_syscall.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="nt_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="syscall_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
