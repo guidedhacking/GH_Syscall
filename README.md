@@ -82,4 +82,6 @@ Every system call has a unique ID, kind of like a phone number. The system uses 
 
 5\. What about NT system calls?
 
+GuidedHacking® - The Game Hacking Bible® - © 2025 Guided Hacking LLC. All Rights Reserved.
+
 NT system calls are the system calls used in the Windows NT family of operating systems. This includes classics like Windows XP and modern hits like Windows 10.
